@@ -1,50 +1,50 @@
 # Alexa - Top Sites in Brazil, apenas sites brasileiros - 2014-09-28
 
-- 5 - http://www.uol.com.br
-- 6 - http://www.globo.com
-- 9 - http://www.mercadolivre.com.br
-- 12 - http://www.abril.com.br
-- 14 - http://www.ig.com.br
-- 18 - http://www.terra.com.br
-- 20 - http://www.folha.uol.com.br
-- 22 - http://www.caixa.gov.br
-- 24 - http://www.correios.com.br
-- 26 - http://esporte.uol.com.br
-- 29 - http://www.netshoes.com.br
-- 30 - http://www.americanas.com.br
-- 31 - http://www.r7.com
-- 32 - http://www.buscape.com.br
-- 35 - http://www.olx.com.br
-- 36 - https://www.itau.com.br
-- 37 - http://www.bomnegocio.com
-- 41 - http://www.saopaulo.sp.gov.br
-- 43 - http://www.bradesco.com.br
-- 47 - http://noticias.uol.com.br
-- 48 - http://www.estadao.com.br
-- 49 - http://www.walmart.com.br
-- 51 - http://www.clicrbs.com.br
-- 52 - http://www.submarino.com.br
-- 54 - http://www.bb.com.br
-- 57 - http://www.techtudo.com.br
-- 58 - https://pagseguro.uol.com.br
-- 59 - http://www.locaweb.com.br
-- 60 - http://www.reclameaqui.com.br
-- 63 - http://www.tecmundo.com.br
-- 64 - http://fazenda.gov.br
-- 65 - http://letras.mus.br
-- 66 - http://virgula.uol.com.br
-- 67 - http://www.extra.com.br
-- 74 - http://blog.uol.com.br
-- 75 - http://email.uol.com.br
-- 77 - http://cameraprive.com.br
-- 79 - http://shopping.uol.com.br
-- 81 - http://www.filmesonlinegratis.net
-- 83 - http://registro.br
-- 84 - http://www.hotelurbano.com
-- 87 - http://www.bol.uol.com.br
-- 89 - http://www.magazineluiza.com.br
-- 91 - http://www.dafiti.com.br
-- 93 - http://egrana.com.br
-- 95 - http://www.lancenet.com.br
-- 96 - http://www.santander.com.br
-- 100 - http://www.pontofrio.com.br
+- 5 - http://www.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.uol.com.br)]
+- 6 - http://www.globo.com [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.globo.com)]
+- 9 - http://www.mercadolivre.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.mercadolivre.com.br)]
+- 12 - http://www.abril.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.abril.com.br)]
+- 14 - http://www.ig.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.ig.com.br)]
+- 18 - http://www.terra.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.terra.com.br)]
+- 20 - http://www.folha.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.folha.uol.com.br)]
+- 22 - http://www.caixa.gov.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.caixa.gov.br)]
+- 24 - http://www.correios.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.correios.com.br)]
+- 26 - http://esporte.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://esporte.uol.com.br)]
+- 29 - http://www.netshoes.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.netshoes.com.br)]
+- 30 - http://www.americanas.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.americanas.com.br)]
+- 31 - http://www.r7.com [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.r7.com)]
+- 32 - http://www.buscape.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.buscape.com.br)]
+- 35 - http://www.olx.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.olx.com.br)]
+- 36 - https://www.itau.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=https://www.itau.com.br)]
+- 37 - http://www.bomnegocio.com [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.bomnegocio.com)]
+- 41 - http://www.saopaulo.sp.gov.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.saopaulo.sp.gov.br)]
+- 43 - http://www.bradesco.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.bradesco.com.br)]
+- 47 - http://noticias.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://noticias.uol.com.br)]
+- 48 - http://www.estadao.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.estadao.com.br)]
+- 49 - http://www.walmart.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.walmart.com.br)]
+- 51 - http://www.clicrbs.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.clicrbs.com.br)]
+- 52 - http://www.submarino.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.submarino.com.br)]
+- 54 - http://www.bb.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.bb.com.br)]
+- 57 - http://www.techtudo.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.techtudo.com.br)]
+- 58 - https://pagseguro.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=https://pagseguro.uol.com.br)]
+- 59 - http://www.locaweb.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.locaweb.com.br)]
+- 60 - http://www.reclameaqui.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.reclameaqui.com.br)]
+- 63 - http://www.tecmundo.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.tecmundo.com.br)]
+- 64 - http://fazenda.gov.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://fazenda.gov.br)]
+- 65 - http://letras.mus.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://letras.mus.br)]
+- 66 - http://virgula.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://virgula.uol.com.br)]
+- 67 - http://www.extra.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.extra.com.br)]
+- 74 - http://blog.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://blog.uol.com.br)]
+- 75 - http://email.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://email.uol.com.br)]
+- 77 - http://cameraprive.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://cameraprive.com.br)]
+- 79 - http://shopping.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://shopping.uol.com.br)]
+- 81 - http://www.filmesonlinegratis.net [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.filmesonlinegratis.net)]
+- 83 - http://registro.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://registro.br)]
+- 84 - http://www.hotelurbano.com [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.hotelurbano.com)]
+- 87 - http://www.bol.uol.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.bol.uol.com.br)]
+- 89 - http://www.magazineluiza.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.magazineluiza.com.br)]
+- 91 - http://www.dafiti.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.dafiti.com.br)]
+- 93 - http://egrana.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://egrana.com.br)]
+- 95 - http://www.lancenet.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.lancenet.com.br)]
+- 96 - http://www.santander.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.santander.com.br)]
+- 100 - http://www.pontofrio.com.br [[outline](https://gsnedders.html5.org/outliner/process.py?url=http://www.pontofrio.com.br)]
